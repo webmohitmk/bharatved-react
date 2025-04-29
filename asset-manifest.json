@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webmohitmk/bharatved-react.git/static/css/main.9fe40f7c.css",
+    "main.js": "/webmohitmk/bharatved-react.git/static/js/main.da3b3549.js",
+    "static/js/453.c7c43a66.chunk.js": "/webmohitmk/bharatved-react.git/static/js/453.c7c43a66.chunk.js",
+    "index.html": "/webmohitmk/bharatved-react.git/index.html",
+    "main.9fe40f7c.css.map": "/webmohitmk/bharatved-react.git/static/css/main.9fe40f7c.css.map",
+    "main.da3b3549.js.map": "/webmohitmk/bharatved-react.git/static/js/main.da3b3549.js.map",
+    "453.c7c43a66.chunk.js.map": "/webmohitmk/bharatved-react.git/static/js/453.c7c43a66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.da3b3549.js"
+  ]
+}
