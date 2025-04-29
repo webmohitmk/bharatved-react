@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webmohitmk/bharatved-react/static/css/main.9fe40f7c.css",
-    "main.js": "/webmohitmk/bharatved-react/static/js/main.56997454.js",
-    "static/js/453.c7c43a66.chunk.js": "/webmohitmk/bharatved-react/static/js/453.c7c43a66.chunk.js",
-    "index.html": "/webmohitmk/bharatved-react/index.html",
-    "main.9fe40f7c.css.map": "/webmohitmk/bharatved-react/static/css/main.9fe40f7c.css.map",
-    "main.56997454.js.map": "/webmohitmk/bharatved-react/static/js/main.56997454.js.map",
-    "453.c7c43a66.chunk.js.map": "/webmohitmk/bharatved-react/static/js/453.c7c43a66.chunk.js.map"
+    "main.css": "/bharatved-react/static/css/main.9fe40f7c.css",
+    "main.js": "/bharatved-react/static/js/main.6e4d2441.js",
+    "static/js/453.c7c43a66.chunk.js": "/bharatved-react/static/js/453.c7c43a66.chunk.js",
+    "index.html": "/bharatved-react/index.html",
+    "main.9fe40f7c.css.map": "/bharatved-react/static/css/main.9fe40f7c.css.map",
+    "main.6e4d2441.js.map": "/bharatved-react/static/js/main.6e4d2441.js.map",
+    "453.c7c43a66.chunk.js.map": "/bharatved-react/static/js/453.c7c43a66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe40f7c.css",
-    "static/js/main.56997454.js"
+    "static/js/main.6e4d2441.js"
   ]
 }
